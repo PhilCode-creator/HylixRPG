@@ -1,0 +1,6 @@
+name: HylixRPG
+version: 1.0
+author: PhilCode
+main: eu.hylix.hylixrpg.RPG
+
+commands:
